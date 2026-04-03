@@ -1,0 +1,8 @@
+scenario,mode,weights,ue1_mbps,ue2_mbps,total_mbps,split_s1,split_s2,jain
+Static 50/50,static,1:1,25.1,13.7,38.8,50,50,0.921
+Static 70/30,static,7:3,24.5,10.6,35.1,70,30,0.864
+Static 30/70,static,3:7,15.8,21.1,36.9,30,70,0.980
+Round-Robin,round-robin,n/a,22.6,16.4,39.0,varies,varies,0.975
+WF Equal,waterfill,1:1,25.2,13.7,38.9,35,65,0.921
+WF w=2:1,waterfill,2:1,21.0,11.1,32.1,67,33,0.919
+WF w=1:2,waterfill,1:2,17.7,17.0,34.7,33,67,1.000

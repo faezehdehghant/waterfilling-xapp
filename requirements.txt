@@ -1,0 +1,7 @@
+# No external dependencies required.
+# The xApp uses only the Python 3.10+ standard library.
+#
+# Runtime environment dependencies (not pip-installable):
+# - OpenAirInterface 5G Core Network (OAI CN5G)
+# - OpenAirInterface gNB (with slicing + RRM policy support)
+# - iperf3 (for traffic generation during experiments)
