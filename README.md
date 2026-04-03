@@ -75,7 +75,7 @@ The waterfilling approach maximizes weighted proportional fairness: slices with 
 ## Installation
 
 ```bash
-git clone https://github.com/faezehdehghan/waterfilling-xapp.git
+git clone https://github.com/faezehdehghant/waterfilling-xapp.git
 cd waterfilling-xapp
 ```
 
